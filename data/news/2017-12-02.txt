@@ -8,7 +8,7 @@ bug fixes and new features in Xdebug, you will also have to upgrade to PHP 7,
 preferably PHP 7.2.</p>
 
 <p>Besides support for PHP 7.2, it also adds a significant set of new
-features, as you can see on the <a href="/updates.php#x_2_6_0alpha1">updates</a>
+features, as you can see on the <a href="/updates#x_2_6_0alpha1">updates</a>
 page. A few highlights are: <strong>support for profiling memory usage</strong>,
 <strong>configurable formatting of filenames</strong>, and for the "remote" debugger:
 "Notice" and "Warning" notifications are sent to the IDE, support for

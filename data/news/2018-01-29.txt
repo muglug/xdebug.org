@@ -6,7 +6,7 @@ bug fixes and new features in Xdebug, you will also have to upgrade to PHP 7,
 preferably PHP 7.2.</p>
 
 <p>Besides support for PHP 7.2, Xdebug 2.6 adds a significant set of new
-features, as you can see on the <a href="/updates.php#x_2_6_0">updates</a>
+features, as you can see on the <a href="/updates#x_2_6_0">updates</a>
 page. A few highlights are: <strong>support for profiling memory usage</strong>,
 <a href="https://xdebug.org/docs/stack_trace#filename_format">configurable
 formatting of filenames</a>, statistics of PHP's <a
@@ -18,7 +18,7 @@ characters in variable and property names, and <a href="https://xdebug.org/docs/
 connection timeouts</a>.</p>
 
 <p>The full list of changes can be found on the <a
-href="/updates.php#x_2_6_0">updates</a> page, and I have written a
+href="/updates#x_2_6_0">updates</a> page, and I have written a
 <a href="https://derickrethans.nl/xdebug-26.html">blog post</a> detailing many
 of the new additions.</p>
 

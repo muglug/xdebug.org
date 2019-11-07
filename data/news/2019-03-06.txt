@@ -9,7 +9,7 @@ leaks, bugs, and incompatibilities with Zend Opcache. Everybody is encouraged
 to upgrade to this new version.</p>
 
 <p>The full list of changes can be found on the <a
-href="/updates.php#x_2_7_0">updates</a> page.</p>
+href="/updates#x_2_7_0">updates</a> page.</p>
 
 <p>I have written a
 <a href="https://derickrethans.nl/xdebug-experience.html">blog post "The
